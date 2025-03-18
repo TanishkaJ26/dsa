@@ -48,7 +48,7 @@ printf("enter size of array:");
     }    
 
 
-    //deletion from specific position
+    //deletion from specific positionyryfyf
     int a[50],pos,size;
     
     printf("enter size:");
